@@ -1,4 +1,4 @@
-# Explainable_ML_LIME
+# Explainable ML Classifier with LIME
 Application of LIME in explaining the predictions of survival of patients with heart failure
 # Background
 LIME (Local Interpretable Model Agnostic Explanations), is an algorithm that can explain the predictions of any classifier or regressor in a faithful way, by approximating it locally with an interpretable model.Using LIME one can explain the predictions of any classifier for individual predictions, thus gaining the trust of the users for the model overall. LIME helps to not only generate quantitative results but also offers a great visualization which is intutive and straightforward to understand. 
